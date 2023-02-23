@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ppodolsky/ppodolsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Pasha, a search engines and distributed web engineer. Worked in big tech but now are doing web3 things.
 
-Here are some ideas to get you started:
+- Search Engines: developer of [Summa](https://github.com/izihawa/summa) and maintainer of [Tantivy](https://github.com/quickwit-oss/tantivy)
+- P2P: maintainer of [Iroh](https://github.com/n0-computer/beetle)
+- Distributed Systems
+- Back-end
+- Performance Optimization
+- 🦀 Rust
+- 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+
+- [Telegram blog in Russian](https://t.me/nerdy_vibes)
+- [Summa's blog](https://izihawa.github.io/summa/blog)
+- [habr.com](https://habr.com/ru/users/PashaPodolsky/)
