@@ -2,7 +2,7 @@
 
 I am Pasha, a search engines and distributed web engineer. Worked in big tech but now are doing web3 things.
 
-- Search Engines: developer of [Summa](https://github.com/izihawa/summa) and maintainer of [Tantivy](https://github.com/quickwit-oss/tantivy)
+- Search Engines: developer of [Summa](https://github.com/izihawa/summa) and contributor of [Tantivy](https://github.com/quickwit-oss/tantivy)
 - Distributed Systems
 - Back-end
 - Performance Optimization
